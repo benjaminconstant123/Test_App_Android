@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="notif">Créer une notification</string>
+    <string name="lampe">Allumer la lampe torche</string>
+</resources>
